@@ -1,7 +1,7 @@
 # 📄 PDF Viewer Dashboard - View Only 🔒
 
 A clean, secure, and interactive *PDF viewer dashboard* built with pure HTML5, JavaScript, and PDF.js.  
-This app renders up to *96 PDFs inline* with *view-only mode, **page navigation, and **download protection* (no iframe or embed).
+This app renders up to *76 PDFs inline* with *view-only mode, **page navigation, and **download protection* (no iframe or embed).
 
 > ✅ Perfect for confidential documents, internal manuals, service part catalogs, or client reports.
 
